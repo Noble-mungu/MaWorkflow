@@ -1,10 +1,11 @@
 
 
-# Agentic Workflow README
+# MaWorkflow
 
-Welcome to the Agentic Workflow project! This project aims to create an AI-powered solution that generates profitable Python scripts through collaboration between AI agents. The agents work together to break down tasks, write code, review and refactor, and ensure the generated scripts are efficient, well-documented, and capable of producing real profit.
+Welcome to the MAgentic Workflow project! This project aims to create an AI-powered solution that generates profitable Python scripts through collaboration between AI agents. The agents work together to break down tasks, write code, review and refactor, and ensure the generated scripts are efficient, well-documented, and capable of producing real profit.
 
 ## Project Overview
+![Screenshot 2024-07-01 184935](https://github.com/Noble-mungu/MaWorkflow/assets/64100418/e13438ac-59c1-45aa-8d56-caf1bda3cbe6)
 
 The Agentic Workflow project consists of the following key components:
 
