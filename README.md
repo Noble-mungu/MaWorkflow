@@ -2,7 +2,7 @@
 
 # MaWorkflow
 
-Welcome to the MAgentic Workflow project!This initiative is dedicated to developing an AI-powered solution that generates profitable Python scripts through the collaboration of AI agents. These agents work in unison to break down tasks, write code, review and refactor, ensuring the resulting scripts are efficient, well-documented, and capable of producing real profits.
+This project ist an AI-powered solution that generates Python scripts through the collaboration of AI agents. These agents work in unison to break down tasks, write code, review and refactor, ensuring the resulting scripts are efficient, well-documented, and capable of producing real profits.
 
 ## Project Overview
 ![Screenshot 2024-07-01 184935](https://github.com/Noble-mungu/MaWorkflow/assets/64100418/e13438ac-59c1-45aa-8d56-caf1bda3cbe6)
